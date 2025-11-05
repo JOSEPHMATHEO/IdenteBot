@@ -1,0 +1,18 @@
+{
+  "name": "identego",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/telegram.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "license": "ISC",
+  "description": "Chatbot para Misiones Universitarias – UTPL"
+}
+
